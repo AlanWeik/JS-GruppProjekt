@@ -1,3 +1,5 @@
+"use strict";
+
 // När användaren begär ny fact tas den gamla bort.
 const executeSearch = () => {
   $factDiv.empty();

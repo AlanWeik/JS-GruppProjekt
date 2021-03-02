@@ -1,3 +1,4 @@
+"use strict";
 // Här är fetch-funktionen.
 async function fetchNorris() {
   const urlToFetch = "https://api.chucknorris.io/jokes/random";

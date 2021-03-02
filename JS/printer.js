@@ -1,3 +1,4 @@
+"use strict";
 // Här plockar vi ut önskad data ifrån API-fetch assignar datan till en variabel.
 const renderNorris = (values) => {
   $factDiv.each(($fact) => {
